@@ -1,5 +1,5 @@
 # lab1-austin79
-tips to working with git and github
+Tips to working with git and github
 
 ## Austin Collins
 I am a Comp-Sci major possibly interested in minoring in Data Science.  
