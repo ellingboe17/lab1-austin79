@@ -8,3 +8,8 @@ To organize my files I connect my PC in my apartment to the ISU VPN to acess fil
 
 ## Edits 
 This is Ian's edit on Austin's repository 
+
+My name is Ross Ellingboe.
+My major is Advertising and my minor is Data Science. 
+In the past month I have been reading books, learning to code R, and writing. 
+The three most important strategies for organizng your work are taking notes, reading over your work, then reading over it one more time to double check it. 
